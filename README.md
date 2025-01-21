@@ -93,10 +93,10 @@ _Year of Employment: [YYYY – YYYY]_
 ---
 ## 🌐 Connect with Me
 
-- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
-- **GitHub**: [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/yourprofile)
-- **Email**: [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
-- **Website**: [![Website](https://img.shields.io/badge/Website-green?style=for-the-badge&logo=internet-explorer)](https://yourwebsite.com)
+- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+- **GitHub**: [![GitHub](https://img.shields.io/badge/GitHub-%23000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourprofile)
+- **Email**: [![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+- **Website**: [![Website](https://img.shields.io/badge/Website-%2300A4D3?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://yourwebsite.com)
 
 
 ---
