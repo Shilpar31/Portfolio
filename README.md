@@ -1,4 +1,5 @@
 # Welcome to My Portfolio! 👋
+
 <!-- Menu Bar -->
 <div style="background-color: #333; padding: 10px 20px; text-align: center;">
   <a href="#education" style="color: white; text-decoration: none; margin: 0 15px; font-weight: bold;">Education</a>
@@ -8,11 +9,14 @@
   <a href="#skills" style="color: white; text-decoration: none; margin: 0 15px; font-weight: bold;">Skills</a>
   <a href="#contact" style="color: white; text-decoration: none; margin: 0 15px; font-weight: bold;">Contact</a>
 </div>
+
 ---
+
 <img src="assets/p1.JPG" alt="Your Name's Picture" width="200"/><br>
 Hi there! I'm **[Your Name]**, a passionate **[Your Profession]** with a keen interest in **[Your Field/Industry]**. Here, you'll find information about my education, work experience, skills, certifications, publications, and more. Feel free to explore!
 
 ---
+
 ## 📄 Download My Resume
 
 <a href="assets/Sample pdf_Resume.pdf" download>
@@ -56,6 +60,7 @@ _Year of Employment: [YYYY – YYYY]_
   - [Highlight any awards or recognitions]
 
 ---
+
 ## 📂 Projects
 <!-- Flex container -->
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
@@ -100,15 +105,30 @@ _Year of Employment: [YYYY – YYYY]_
 
 <!-- Responsive Design for smaller screens -->
 <style>
+  /* For screens larger than 768px */
+  @media (min-width: 768px) {
+    .project-card {
+      width: 30%; /* 3 cards per row */
+    }
+  }
+
+  /* For screens smaller than 768px */
   @media (max-width: 768px) {
-    div {
+    .project-card {
       width: 48%; /* 2 cards per row */
     }
   }
 
+  /* For screens smaller than 480px */
   @media (max-width: 480px) {
-    div {
+    .project-card {
       width: 100%; /* 1 card per row */
+    }
+
+    /* Adjust menu bar for smaller screens */
+    .menu a {
+      display: block; /* Stack the menu items vertically */
+      margin: 5px 0;
     }
   }
 </style>
@@ -158,22 +178,14 @@ _Year of Employment: [YYYY – YYYY]_
   - [Brief description of your involvement and achievements]
 
 ---
+
 ## 🌐 Connect with Me
 
-- **LinkedIn**:  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-- **GitHub**:    [![GitHub](https://img.shields.io/badge/GitHub-%23000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourprofile)
-- **Email**:     [![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-- **Website**:   [![Website](https://img.shields.io/badge/Website-%2300A4D3?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://yourwebsite.com)
-
-
-
-
-
-
-
+- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+- **GitHub**: [![GitHub](https://img.shields.io/badge/GitHub-%23000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourprofile)
+- **Email**: [![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+- **Website**: [![Website](https://img.shields.io/badge/Website-%2300A4D3?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://yourwebsite.com)
 
 ---
 
-
 Thanks for visiting my portfolio! Feel free to explore my repositories, contact me, or connect on social media. Let's collaborate! ✨
-
