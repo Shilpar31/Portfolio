@@ -9,6 +9,9 @@ Hi there! I'm **[Your Name]**, a passionate **[Your Profession]** with a keen in
 <a href="assets/Sample pdf_Resume.pdf" download>
   <img src="https://img.shields.io/badge/Download_Resume-4CAF50?style=flat-square&logo=pdf&logoColor=white" alt="Download Resume" />
 </a> <br>
+
+---
+
 ## 📚 Education
 
 ### [Your Degree or Program] - [Institution Name]  
