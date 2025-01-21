@@ -1,5 +1,14 @@
 # Welcome to My Portfolio! 👋
-
+<!-- Menu Bar -->
+<div style="background-color: #333; padding: 10px 20px; text-align: center;">
+  <a href="#education" style="color: white; text-decoration: none; margin: 0 15px; font-weight: bold;">Education</a>
+  <a href="#experience" style="color: white; text-decoration: none; margin: 0 15px; font-weight: bold;">Experience</a>
+  <a href="#projects" style="color: white; text-decoration: none; margin: 0 15px; font-weight: bold;">Projects</a>
+  <a href="#certifications" style="color: white; text-decoration: none; margin: 0 15px; font-weight: bold;">Certifications</a>
+  <a href="#skills" style="color: white; text-decoration: none; margin: 0 15px; font-weight: bold;">Skills</a>
+  <a href="#contact" style="color: white; text-decoration: none; margin: 0 15px; font-weight: bold;">Contact</a>
+</div>
+---
 <img src="assets/p1.JPG" alt="Your Name's Picture" width="200"/><br>
 Hi there! I'm **[Your Name]**, a passionate **[Your Profession]** with a keen interest in **[Your Field/Industry]**. Here, you'll find information about my education, work experience, skills, certifications, publications, and more. Feel free to explore!
 
