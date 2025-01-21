@@ -66,16 +66,6 @@ _Year of Employment: [YYYY – YYYY]_
 
 ---
 
-## 🌐 Connect with Me
-
-- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
-- **GitHub**: [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/yourprofile)
-- **Email**: [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
-- **Website**: [![Website](https://img.shields.io/badge/Website-green?style=for-the-badge&logo=internet-explorer)](https://yourwebsite.com)
-- **Twitter**: [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-
----
-
 ## 📖 Publications
 
 - **[Publication Title]**  
@@ -101,14 +91,16 @@ _Year of Employment: [YYYY – YYYY]_
   - [Brief description of your involvement and achievements]
 
 ---
+## 🌐 Connect with Me
 
-## 🚀 About Jekyll Minimal Theme
+- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
+- **GitHub**: [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/yourprofile)
+- **Email**: [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+- **Website**: [![Website](https://img.shields.io/badge/Website-green?style=for-the-badge&logo=internet-explorer)](https://yourwebsite.com)
 
-This portfolio is powered by the Jekyll Minimal theme. It's designed to be clean, simple, and highly customizable. You can easily fork this repository to customize and use it for your own portfolio.
-
-For more details about how to set up and customize your Jekyll site, check out the [Jekyll documentation](https://jekyllrb.com/docs/).
 
 ---
+
 
 Thanks for visiting my portfolio! Feel free to explore my repositories, contact me, or connect on social media. Let's collaborate! ✨
 
