@@ -57,8 +57,8 @@ _Year of Employment: [YYYY – YYYY]_
 
 ---
 ## 📂 Projects
-
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
+<!-- Flex container -->
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <!-- Project Card 1 -->
   <div style="border: 1px solid #ddd; border-radius: 10px; width: 30%; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
@@ -96,6 +96,22 @@ _Year of Employment: [YYYY – YYYY]_
     </div>
   </div>
 
+</div> <!-- End of flex container -->
+
+<!-- Responsive Design for smaller screens -->
+<style>
+  @media (max-width: 768px) {
+    div {
+      width: 48%; /* 2 cards per row */
+    }
+  }
+
+  @media (max-width: 480px) {
+    div {
+      width: 100%; /* 1 card per row */
+    }
+  }
+</style>
 
 ------
 
