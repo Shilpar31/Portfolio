@@ -6,7 +6,9 @@ Hi there! I'm **[Your Name]**, a passionate **[Your Profession]** with a keen in
 ---
 ## 📄 Download My Resume
 
-[![Download Resume](https://img.shields.io/badge/Download_Resume-blue?style=for-the-badge&logo=github)](https://github.com/yourusername/yourrepository/raw/main/assets/docs/resume.pdf)
+<a href="https://github.com/yourusername/yourrepository/raw/main/assets/docs/resume.pdf" download>
+  <img src="https://img.shields.io/badge/Download_Resume-4CAF50?style=flat-square&logo=pdf&logoColor=white" alt="Download Resume" />
+</a>
 ## 📚 Education
 
 ### [Your Degree or Program] - [Institution Name]  
