@@ -105,34 +105,36 @@ _Year of Employment: [YYYY – YYYY]_
 
 <!-- Responsive Design for smaller screens -->
 <style>
-  /* For screens larger than 768px */
-  @media (min-width: 768px) {
-    .project-card {
-      width: 30%; /* 3 cards per row */
-    }
+/* For screens larger than 768px */
+@media (min-width: 768px) {
+  .project-card {
+    width: 30%; /* 3 cards per row */
+  }
+}
+
+/* For screens smaller than 768px */
+@media (max-width: 768px) {
+  .project-card {
+    width: 48%; /* 2 cards per row */
+  }
+}
+
+/* For screens smaller than 480px (Mobile) */
+@media (max-width: 480px) {
+  .project-card {
+    width: 100%; /* 1 card per row */
   }
 
-  /* For screens smaller than 768px */
-  @media (max-width: 768px) {
-    .project-card {
-      width: 55%; /* 2 cards per row */
-    }
+  /* Adjust layout of menu items or other elements as needed */
+  .menu-bar a {
+    display: block; /* Stack menu items vertically */
+    margin: 5px 0;
+    padding: 10px;
+    font-size: 16px;
   }
+}
 
-  /* For screens smaller than 480px */
-  @media (max-width: 480px) {
-    .project-card {
-      width: 60%; /* 1 card per row */
-    }
-
-    /* Adjust menu bar for smaller screens */
-    .menu a {
-      display: block; /* Stack the menu items vertically */
-      margin: 5px 0;
-    }
-  }
 </style>
-
 ------
 
 ## 🏅 Certifications
