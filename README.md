@@ -47,6 +47,48 @@ _Year of Employment: [YYYY – YYYY]_
   - [Highlight any awards or recognitions]
 
 ---
+## 📂 Projects
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
+
+  <!-- Project Card 1 -->
+  <div style="border: 1px solid #ddd; border-radius: 10px; width: 30%; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="assets/p1.JPG" alt="Project 1" style="width: 100%; height: 200px; object-fit: cover;">
+    <div style="padding: 15px;">
+      <h3>Project Name 1</h3>
+      <p>A brief description of the project. Explains what it does and its core features.</p>
+      <p><strong>Technologies Used:</strong> HTML, CSS, JavaScript</p>
+      <a href="https://your-project-link.com" style="text-decoration: none; color: white; background-color: #4CAF50; padding: 10px 15px; border-radius: 5px; font-weight: bold;">Live Demo</a>
+      <a href="https://github.com/yourusername/project1" style="text-decoration: none; color: white; background-color: #333; padding: 10px 15px; border-radius: 5px; font-weight: bold; margin-left: 10px;">GitHub</a>
+    </div>
+  </div>
+
+  <!-- Project Card 2 -->
+  <div style="border: 1px solid #ddd; border-radius: 10px; width: 30%; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="assets/p1.JPG" alt="Project 2" style="width: 100%; height: 200px; object-fit: cover;">
+    <div style="padding: 15px;">
+      <h3>Project Name 2</h3>
+      <p>A brief description of the project. Explains what it does and its core features.</p>
+      <p><strong>Technologies Used:</strong> React, Node.js</p>
+      <a href="https://your-project-link.com" style="text-decoration: none; color: white; background-color: #4CAF50; padding: 10px 15px; border-radius: 5px; font-weight: bold;">Live Demo</a>
+      <a href="https://github.com/yourusername/project2" style="text-decoration: none; color: white; background-color: #333; padding: 10px 15px; border-radius: 5px; font-weight: bold; margin-left: 10px;">GitHub</a>
+    </div>
+  </div>
+
+  <!-- Project Card 3 -->
+  <div style="border: 1px solid #ddd; border-radius: 10px; width: 30%; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="assets/p1.JPG" alt="Project 3" style="width: 100%; height: 200px; object-fit: cover;">
+    <div style="padding: 15px;">
+      <h3>Project Name 3</h3>
+      <p>A brief description of the project. Explains what it does and its core features.</p>
+      <p><strong>Technologies Used:</strong> Vue, Firebase</p>
+      <a href="https://your-project-link.com" style="text-decoration: none; color: white; background-color: #4CAF50; padding: 10px 15px; border-radius: 5px; font-weight: bold;">Live Demo</a>
+      <a href="https://github.com/yourusername/project3" style="text-decoration: none; color: white; background-color: #333; padding: 10px 15px; border-radius: 5px; font-weight: bold; margin-left: 10px;">GitHub</a>
+    </div>
+  </div>
+
+
+------
 
 ## 🏅 Certifications
 
@@ -93,10 +135,16 @@ _Year of Employment: [YYYY – YYYY]_
 ---
 ## 🌐 Connect with Me
 
-- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-- **GitHub**: [![GitHub](https://img.shields.io/badge/GitHub-%23000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourprofile)
-- **Email**: [![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-- **Website**: [![Website](https://img.shields.io/badge/Website-%2300A4D3?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://yourwebsite.com)
+- **LinkedIn**:  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+- **GitHub**:    [![GitHub](https://img.shields.io/badge/GitHub-%23000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourprofile)
+- **Email**:     [![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+- **Website**:   [![Website](https://img.shields.io/badge/Website-%2300A4D3?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://yourwebsite.com)
+
+
+
+
+
+
 
 
 ---
