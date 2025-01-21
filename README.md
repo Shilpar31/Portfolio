@@ -1,6 +1,6 @@
 # Welcome to My Portfolio! 👋
 
-![Your Name's Picture](assets/images/p1.jpg)
+![Your Name's Picture](assets/p1.JPG)
 
 Hi there! I'm **[Your Name]**, a passionate **[Your Profession]** with a keen interest in **[Your Field/Industry]**. Here, you'll find information about my education, work experience, skills, certifications, publications, and more. Feel free to explore!
 
