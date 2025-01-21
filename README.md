@@ -1,8 +1,8 @@
 # Welcome to My Portfolio! 👋
 
-Hi there! I'm [Your Name], a passionate [Your Profession] with a keen interest in [Your Field/Industry]. Here, you'll find information about my education, work experience, skills, certifications, publications, and more.
+![Your Name's Picture](assets/images/p1.jpg)
 
-You can also check out my personal website or connect with me on various platforms.
+Hi there! I'm **[Your Name]**, a passionate **[Your Profession]** with a keen interest in **[Your Field/Industry]**. Here, you'll find information about my education, work experience, skills, certifications, publications, and more. Feel free to explore!
 
 ---
 
@@ -106,7 +106,3 @@ For more details about how to set up and customize your Jekyll site, check out t
 
 Thanks for visiting my portfolio! Feel free to explore my repositories, contact me, or connect on social media. Let's collaborate! ✨
 
-###skills
-
-
-###certifications
