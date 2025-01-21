@@ -115,14 +115,14 @@ _Year of Employment: [YYYY – YYYY]_
   /* For screens smaller than 768px */
   @media (max-width: 768px) {
     .project-card {
-      width: 48%; /* 2 cards per row */
+      width: 55%; /* 2 cards per row */
     }
   }
 
   /* For screens smaller than 480px */
   @media (max-width: 480px) {
     .project-card {
-      width: 100%; /* 1 card per row */
+      width: 60%; /* 1 card per row */
     }
 
     /* Adjust menu bar for smaller screens */
@@ -188,4 +188,4 @@ _Year of Employment: [YYYY – YYYY]_
 
 ---
 
-Thanks for visiting my portfolio! Feel free to explore my repositories, contact me, or connect on social media. Let's collaborate! ✨
+Thanks for visiting my portfolio! Feel free to explore my repositories, contact me, or connect on social media. Let's collaborate! 
