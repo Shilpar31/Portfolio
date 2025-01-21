@@ -4,7 +4,9 @@
 Hi there! I'm **[Your Name]**, a passionate **[Your Profession]** with a keen interest in **[Your Field/Industry]**. Here, you'll find information about my education, work experience, skills, certifications, publications, and more. Feel free to explore!
 
 ---
+## 📄 Download My Resume
 
+[![Download Resume](https://img.shields.io/badge/Download_Resume-blue?style=for-the-badge&logo=github)](https://github.com/yourusername/yourrepository/raw/main/assets/docs/resume.pdf)
 ## 📚 Education
 
 ### [Your Degree or Program] - [Institution Name]  
