@@ -27,43 +27,44 @@ Hi there! I'm **Shilpa R**, a passionate **Computer science graduate** with a ke
 
 ## 📚 Education
 
-### Master of Computer Applications[MCA] - <a href="https://www.kristujayanti.edu.in/> Kristu Jayanti College </a> 
+### Master of Computer Applications[MCA] - <a href="https://www.kristujayanti.edu.in/"> Kristu Jayanti College </a> 
 Year of Graduation: 2023  
 CGPA - 8.9/10 <br>
 Relevant Coursework: Machine Laerning, Artificial Intelligence, Data science, Software engineering, Java Programming language, DSA, Cloud computing.
 Achievements:<br> 1. Achieved outstanding academic performance, securing the second rank in the MCA course, demonstrating strong technical skills, 
                 problem-solving ability, and dedication to excellence.<br>
-                2. Spearheaded the ACM chapter initiatives to promote and support women in the STEM field, driving impactful programs, workshops, and                    mentorship opportunities to foster inclusivity and innovation.<br>
-                3. Contributed to the team’s overall championship and secured second place in the IT Debate competition, demonstrating strong       
-                   collaboration and communication skills at the *Joshiana* Intercollegiate Fest hosted by St. Joseph's Engineering College. <br>
+                2. Spearheaded the ACM chapter initiatives to promote and support women in the STEM field, driving impactful programs, workshops, and mentorship opportunities to foster inclusivity and innovation.<br>
+                3. Contributed to the team’s overall championship and secured second place in the IT Debate competition, demonstrating strong collaboration and communication skills at the *Joshiana* Intercollegiate Fest hosted by St. Joseph's Engineering College. <br>
                 4. Secured second place in the Ideathon organized by the department, showcasing innovative thinking and problem-solving skills.
 
 ### Bachelor of Computer Applications[BCA] - Kristu Jayanti College 
 Year of Graduation: 2021  <br>
-Relevant Coursework: C, Java, Software engineering, Machine Learning, Data Structures, Cloud Computing, Computer Networks, Operating Systems.<br>
+Relevant Coursework: C, Java, Software engineering, Machine Learning, Data Structures, Cloud Computing, Computer Networks, Operating Systems, SQL.<br>
 CGPA - 9.6/10
 
 ---
 
 ## 💼 Experience
 
-### [Job Title] – [Company Name]  
-_Year of Employment: [YYYY – YYYY]_  
-- **Key Responsibilities**:
-  - [Your responsibility or task]
-  - [Your responsibility or task]
-- **Key Achievements**:
-  - [Highlight your contributions, results, or impact]
-  - [Highlight any awards or recognitions]
+### Teaching and Research Assistant – Kristu Jayanti College  
+Year of Employment: 2024-Present  
+- **Key Responsibilities**:<br>
+  -*Undergraduate Course Instruction*<br>
+Developed course content, delivered lectures, and fostered an interactive and academically rigorous classroom environment for undergraduate courses in Computer Science.<br>
+  -*Research in Machine Learning & AI*<br>
+Conducted research in machine learning and artificial intelligence, focusing on innovative techniques and advancements in the field.
 
-### [Previous Job Title] – [Previous Company Name]  
-_Year of Employment: [YYYY – YYYY]_  
-- **Key Responsibilities**:
-  - [Your responsibility or task]
-  - [Your responsibility or task]
-- **Key Achievements**:
-  - [Highlight your contributions, results, or impact]
-  - [Highlight any awards or recognitions]
+### Technical Consultant - Data Science – Edureka <br>
+Year of Employment: Jan 2024- Jul 2024 - Internship  <br>
+- **Key Responsibilities**:<br>
+    Delivered IT solutions and training, achieving 80% client satisfaction.  Provided data-driven insights using machine learning and Power BI, developed models aligned with client goals, and identified opportunities for data optimization and process improvement.
+
+### Software Engineer-Trainee - Sysfore Technologies Pvt Ltd.<br>
+Year of Employment: Jan 2023 - Jul 2023 - Internship  <br>
+- **Key Responsibilities**:<br>
+    Developed two key modules for a leading manufacturing firm, enhancing 20% functionality and performance. 
+Identified and documented software flaws, and created detailed BRDs and solution plans for assigned modules. Adapted to project scope and timeline changes while maintaining high-quality outputs.<br>
+Achieved a 4.1/5 performance rating for significant contributions to project success.
 
 ---
 
@@ -75,11 +76,11 @@ _Year of Employment: [YYYY – YYYY]_
   <div style="border: 1px solid #ddd; border-radius: 10px; width: 30%; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <img src="assets/p1.JPG" alt="Project 1" style="width: 100%; height: 200px; object-fit: cover;">
     <div style="padding: 15px;">
-      <h3>Project Name 1</h3>
-      <p>A brief description of the project. Explains what it does and its core features.</p>
-      <p><strong>Technologies Used:</strong> HTML, CSS, JavaScript</p>
-      <a href="https://your-project-link.com" style="text-decoration: none; color: white; background-color: #4CAF50; padding: 10px 15px; border-radius: 5px; font-weight: bold;">Live Demo</a>
-      <a href="https://github.com/yourusername/project1" style="text-decoration: none; color: white; background-color: #333; padding: 10px 15px; border-radius: 5px; font-weight: bold; margin-left: 10px;">GitHub</a>
+      <h3>Research Project: AI-ML Models with Fuzzy Logic for Mining Safety</h3>
+      <p>Integrated ML models with fuzzy logic to enhance safety measures in mining operations.Created predictive systems for hazard detection, improving risk assessment accuracy.Conducted experiments and analysis to validate the effectiveness of the developed models</p>
+      <p><strong>Technologies Used:</strong>Python, Jupyter</p>
+     <!-- <a href="https://your-project-link.com" style="text-decoration: none; color: white; background-color: #4CAF50; padding: 10px 15px; border-radius: 5px; font-weight: bold;">Live Demo</a>
+      <a href="https://github.com/yourusername/project1" style="text-decoration: none; color: white; background-color: #333; padding: 10px 15px; border-radius: 5px; font-weight: bold; margin-left: 10px;">GitHub</a> -->
     </div>
   </div>
 
