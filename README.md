@@ -31,11 +31,6 @@ Hi there! I'm **Shilpa R**, a passionate **Computer science graduate** with a ke
 Year of Graduation: 2023  
 CGPA - 8.9/10 <br>
 Relevant Coursework: Machine Laerning, Artificial Intelligence, Data science, Software engineering, Java Programming language, DSA, Cloud computing.
-Achievements:<br> 1. Achieved outstanding academic performance, securing the second rank in the MCA course, demonstrating strong technical skills, 
-                problem-solving ability, and dedication to excellence.<br>
-                2. Spearheaded the ACM chapter initiatives to promote and support women in the STEM field, driving impactful programs, workshops, and mentorship opportunities to foster inclusivity and innovation.<br>
-                3. Contributed to the team’s overall championship and secured second place in the IT Debate competition, demonstrating strong collaboration and communication skills at the *Joshiana* Intercollegiate Fest hosted by St. Joseph's Engineering College. <br>
-                4. Secured second place in the Ideathon organized by the department, showcasing innovative thinking and problem-solving skills.
 
 ### Bachelor of Computer Applications[BCA] - Kristu Jayanti College 
 Year of Graduation: 2021  <br>
@@ -74,11 +69,11 @@ Achieved a 4.1/5 performance rating for significant contributions to project suc
 
   <!-- Project Card 1 -->
   <div style="border: 1px solid #ddd; border-radius: 10px; width: 30%; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <img src="assets/p1.JPG" alt="Project 1" style="width: 100%; height: 200px; object-fit: cover;">
+    <img src="assets/AI-p.JPG" alt="Project 1" style="width: 100%; height: 200px; object-fit: cover;">
     <div style="padding: 15px;">
       <h3>Research Project: AI-ML Models with Fuzzy Logic for Mining Safety</h3>
       <p>Integrated ML models with fuzzy logic to enhance safety measures in mining operations.Created predictive systems for hazard detection, improving risk assessment accuracy.Conducted experiments and analysis to validate the effectiveness of the developed models</p>
-      <p><strong>Technologies Used:</strong>Python, Jupyter</p>
+      <p><strong>Technologies Used:</strong> Python, Jupyter</p>
      <!-- <a href="https://your-project-link.com" style="text-decoration: none; color: white; background-color: #4CAF50; padding: 10px 15px; border-radius: 5px; font-weight: bold;">Live Demo</a>
       <a href="https://github.com/yourusername/project1" style="text-decoration: none; color: white; background-color: #333; padding: 10px 15px; border-radius: 5px; font-weight: bold; margin-left: 10px;">GitHub</a> -->
     </div>
@@ -88,11 +83,11 @@ Achieved a 4.1/5 performance rating for significant contributions to project suc
   <div style="border: 1px solid #ddd; border-radius: 10px; width: 30%; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <img src="assets/p1.JPG" alt="Project 2" style="width: 100%; height: 200px; object-fit: cover;">
     <div style="padding: 15px;">
-      <h3>Project Name 2</h3>
-      <p>A brief description of the project. Explains what it does and its core features.</p>
-      <p><strong>Technologies Used:</strong> React, Node.js</p>
-      <a href="https://your-project-link.com" style="text-decoration: none; color: white; background-color: #4CAF50; padding: 10px 15px; border-radius: 5px; font-weight: bold;">Live Demo</a>
-      <a href="https://github.com/yourusername/project2" style="text-decoration: none; color: white; background-color: #333; padding: 10px 15px; border-radius: 5px; font-weight: bold; margin-left: 10px;">GitHub</a>
+      <h3>Travel Aggregator Analysis</h3>
+      <p>Analyzed datasets to extract insights and address critical business questions.Identified distinct bookings, sessions, and searches alongside determining sessions with multiple bookings. Utilized data visualization techniques, including pie charts and heat maps, to illustrate booking patterns and correlation.</p>
+      <p><strong>Technologies Used:</strong> Python, Jupyter</p>
+    <!--  <a href="https://your-project-link.com" style="text-decoration: none; color: white; background-color: #4CAF50; padding: 10px 15px; border-radius: 5px; font-weight: bold;">Live Demo</a>
+     <a href="https://github.com/yourusername/project2" style="text-decoration: none; color: white; background-color: #333; padding: 10px 15px; border-radius: 5px; font-weight: bold; margin-left: 10px;">GitHub</a>-->
     </div>
   </div>
 
@@ -100,11 +95,11 @@ Achieved a 4.1/5 performance rating for significant contributions to project suc
   <div style="border: 1px solid #ddd; border-radius: 10px; width: 30%; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <img src="assets/p1.JPG" alt="Project 3" style="width: 100%; height: 200px; object-fit: cover;">
     <div style="padding: 15px;">
-      <h3>Project Name 3</h3>
-      <p>A brief description of the project. Explains what it does and its core features.</p>
-      <p><strong>Technologies Used:</strong> Vue, Firebase</p>
-      <a href="https://your-project-link.com" style="text-decoration: none; color: white; background-color: #4CAF50; padding: 10px 15px; border-radius: 5px; font-weight: bold;">Live Demo</a>
-      <a href="https://github.com/yourusername/project3" style="text-decoration: none; color: white; background-color: #333; padding: 10px 15px; border-radius: 5px; font-weight: bold; margin-left: 10px;">GitHub</a>
+      <h3>Visitor Management App</h3>
+      <p>A website and mobile application were created to track all visitors, set up appointments, and provide visitor passes for an organisation. Implemented seamless integration with Microsoft services like Azure Active Directory and Microsoft 365.</p>
+      <p><strong>Technologies Used:</strong> PowerApps, Dataverse, Dynamics CRM</p>
+    <!--   <a href="https://your-project-link.com" style="text-decoration: none; color: white; background-color: #4CAF50; padding: 10px 15px; border-radius: 5px; font-weight: bold;">Live Demo</a>
+     <a href="https://github.com/yourusername/project3" style="text-decoration: none; color: white; background-color: #333; padding: 10px 15px; border-radius: 5px; font-weight: bold; margin-left: 10px;">GitHub</a>-->
     </div>
   </div>
 
@@ -146,23 +141,22 @@ Achieved a 4.1/5 performance rating for significant contributions to project suc
 
 ## 🏅 Certifications
 
-- **[Certification Title]** – [Issuing Organization]  
-  _Date Issued: [YYYY]_
-- **[Certification Title]** – [Issuing Organization]  
-  _Date Issued: [YYYY]_
+**Generative AI with LLM** – DeepLearning.AI <a href="https://drive.google.com/file/d/1JWex_eeT8ErwwgwnLZStyIIqUSQUvm5c/view?usp=drive_link">*View certificate*</a> <br>
+**Data Science Job Simulation** -BCGX (Forage) <a href="https://drive.google.com/file/d/1KOUAePlYsgBOnpKYSnTJEsJgHVzDyEHq/view?usp=drive_link">*View certificate*</a><br>
+**Microsoft Power BI Certification Training Course**-Edureka <a href="https://drive.google.com/file/d/1fhpl-DRE8dH_oM0Vo4LJJc-J07gOdYc-/view?usp=drive_link">*View certificate*</a><br>
+**Career Essentials in Gen AI** - Microsoft & Linkedin <a href="https://drive.google.com/file/d/16HMldPj3CxPTjDh_lSlue7ycN7opjTJj/view?usp=drive_link">*View certificate*</a><br>
+  
 
 ---
 
 ## 💻 Skills
 
-- **Programming Languages**: [Python, JavaScript, etc.]
-- **Web Technologies**: [HTML, CSS, JavaScript, etc.]
-- **Software & Tools**: [Photoshop, VS Code, Git, etc.]
-- **Other Skills**: [Communication, Project Management, etc.]
-
+- **Programming Languages**: Python, Java, C <br>
+- **Libraries/Tools** : Pandas, Numpy, Scikit-Learn, Matplotlib,PowerBI, Excel, Jupyter Notebook <br>
+- **Soft skills** : Adaptability, Communication skills, Analytical Thinking, Creativity, Teamwork
 ---
 
-## 📖 Publications
+<!--## 📖 Publications
 
 - **[Publication Title]**  
   _Published: [Date]_  
@@ -175,17 +169,14 @@ Achieved a 4.1/5 performance rating for significant contributions to project suc
   - **Summary**: [Brief description of the publication and your role in it]
 
 ---
+-->
 
-## 🎮 Extra-Curricular Activities
+## 🎮 Achievements & Extra-Curricular Activities
 
-- **[Organization/Club Name]** – [Role]  
-  _Year: [YYYY – YYYY]_  
-  - [Brief description of your involvement and achievements]
-  
-- **[Organization/Club Name]** – [Role]  
-  _Year: [YYYY – YYYY]_  
-  - [Brief description of your involvement and achievements]
-
+-  Achieved outstanding academic performance, securing the **second rank** in the MCA course, demonstrating strong technical skills, problem-solving ability, and dedication to excellence.<br>
+-  Spearheaded the **ACM chapter** initiatives to promote and support women in the STEM field, driving impactful programs, workshops, and mentorship opportunities to foster inclusivity and innovation.<br>
+-  Contributed to the team’s **overall championship** and secured **second place in the IT Debate** competition, demonstrating strong collaboration and communication skills at the *Joshiana* Intercollegiate Fest hosted by St. Joseph's Engineering College. <br>
+-  Secured **second place** in the Ideathon organized by the department, showcasing innovative thinking and problem-solving skills.
 ---
 
 ## 🌐 Connect with Me
