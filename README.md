@@ -13,7 +13,7 @@
 ---
 
 <img src="assets/p1.JPG" alt="Your Name's Picture" width="200"/><br>
-Hi there! I'm **[Your Name]**, a passionate **[Your Profession]** with a keen interest in **[Your Field/Industry]**. Here, you'll find information about my education, work experience, skills, certifications, publications, and more. Feel free to explore!
+Hi there! I'm **Shilpa R**, a passionate **Computer science graduate** with a keen interest in **Software Development and AI**. Here, you'll find information about my education, work experience, skills, certifications, publications, and more. Feel free to explore!
 
 ---
 
@@ -27,15 +27,21 @@ Hi there! I'm **[Your Name]**, a passionate **[Your Profession]** with a keen in
 
 ## 📚 Education
 
-### [Your Degree or Program] - [Institution Name]  
-_Year of Graduation: [YYYY]_  
-- Relevant Coursework: [List of relevant courses or subjects]
-- Achievements: [Any awards or honors received]
+### Master of Computer Applications[MCA] - <a href="https://www.kristujayanti.edu.in/> Kristu Jayanti College </a> 
+Year of Graduation: 2023  
+CGPA - 8.9/10 <br>
+Relevant Coursework: Machine Laerning, Artificial Intelligence, Data science, Software engineering, Java Programming language, DSA, Cloud computing.
+Achievements:<br> 1. Achieved outstanding academic performance, securing the second rank in the MCA course, demonstrating strong technical skills, 
+                problem-solving ability, and dedication to excellence.<br>
+                2. Spearheaded the ACM chapter initiatives to promote and support women in the STEM field, driving impactful programs, workshops, and                    mentorship opportunities to foster inclusivity and innovation.<br>
+                3. Contributed to the team’s overall championship and secured second place in the IT Debate competition, demonstrating strong       
+                   collaboration and communication skills at the *Joshiana* Intercollegiate Fest hosted by St. Joseph's Engineering College. <br>
+                4. Secured second place in the Ideathon organized by the department, showcasing innovative thinking and problem-solving skills.
 
-### [Any Additional Degree or Certificate]  
-_Year of Graduation: [YYYY]_  
-- Relevant Coursework: [List of relevant courses or subjects]
-- Achievements: [Any awards or honors received]
+### Bachelor of Computer Applications[BCA] - Kristu Jayanti College 
+Year of Graduation: 2021  <br>
+Relevant Coursework: C, Java, Software engineering, Machine Learning, Data Structures, Cloud Computing, Computer Networks, Operating Systems.<br>
+CGPA - 9.6/10
 
 ---
 
