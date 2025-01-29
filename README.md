@@ -181,10 +181,10 @@ Achieved a 4.1/5 performance rating for significant contributions to project suc
 
 ## 🌐 Connect with Me
 
-- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shilpar2/)
 - **GitHub**: [![GitHub](https://img.shields.io/badge/GitHub-%23000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourprofile)
-- **Email**: [![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-- **Website**: [![Website](https://img.shields.io/badge/Website-%2300A4D3?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://yourwebsite.com)
+- **Email**: [![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shilpa31r@gmail.com)
+
 
 ---
 
