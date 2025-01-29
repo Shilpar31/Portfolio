@@ -24,7 +24,7 @@ Hi there! I'm **Shilpa R**, a passionate **Computer science graduate** with a ke
 </a> <br>
 
 ---
-
+<section id="education">
 ## 📚 Education
 
 ### Master of Computer Applications[MCA] - <a href="https://www.kristujayanti.edu.in/"> Kristu Jayanti College </a> 
@@ -36,9 +36,9 @@ Relevant Coursework: Machine Laerning, Artificial Intelligence, Data science, So
 Year of Graduation: 2021  <br>
 Relevant Coursework: C, Java, Software engineering, Machine Learning, Data Structures, Cloud Computing, Computer Networks, Operating Systems, SQL.<br>
 CGPA - 9.6/10
-
+</section>
 ---
-
+<section id="experience">
 ## 💼 Experience
 
 ### Teaching and Research Assistant – Kristu Jayanti College  
@@ -60,7 +60,7 @@ Year of Employment: Jan 2023 - Jul 2023 - Internship  <br>
     Developed two key modules for a leading manufacturing firm, enhancing 20% functionality and performance. 
 Identified and documented software flaws, and created detailed BRDs and solution plans for assigned modules. Adapted to project scope and timeline changes while maintaining high-quality outputs.<br>
 Achieved a 4.1/5 performance rating for significant contributions to project success.
-
+</section>
 ---
 
 ## 📂 Projects
