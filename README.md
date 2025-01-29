@@ -102,11 +102,11 @@ Achieved a 4.1/5 performance rating for significant contributions to project suc
      <a href="https://github.com/yourusername/project3" style="text-decoration: none; color: white; background-color: #333; padding: 10px 15px; border-radius: 5px; font-weight: bold; margin-left: 10px;">GitHub</a>-->
     </div>
   </div>
-
+<!--
 </div> <!-- End of flex container -->
 
 <!-- Responsive Design for smaller screens -->
-<style>
+<!--<style>
 /* For screens larger than 768px */
 @media (min-width: 768px) {
   .project-card {
@@ -136,7 +136,7 @@ Achieved a 4.1/5 performance rating for significant contributions to project suc
   }
 }
 
-</style>
+</style> -->
 ------
 
 ## 🏅 Certifications
