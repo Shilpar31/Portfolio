@@ -62,7 +62,7 @@ Identified and documented software flaws, and created detailed BRDs and solution
 Achieved a 4.1/5 performance rating for significant contributions to project success.
 </section>
 ---
-
+<section id="projects">
 ## 📂 Projects
 <!-- Flex container -->
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
@@ -137,23 +137,25 @@ Achieved a 4.1/5 performance rating for significant contributions to project suc
 }
 
 </style> -->
+</section>
 ------
-
+<section id="certifications">
 ## 🏅 Certifications
 
 **Generative AI with LLM** – DeepLearning.AI <a href="https://drive.google.com/file/d/1JWex_eeT8ErwwgwnLZStyIIqUSQUvm5c/view?usp=drive_link">*View certificate*</a> <br>
 **Data Science Job Simulation** -BCGX (Forage) <a href="https://drive.google.com/file/d/1KOUAePlYsgBOnpKYSnTJEsJgHVzDyEHq/view?usp=drive_link">*View certificate*</a><br>
 **Microsoft Power BI Certification Training Course**-Edureka <a href="https://drive.google.com/file/d/1fhpl-DRE8dH_oM0Vo4LJJc-J07gOdYc-/view?usp=drive_link">*View certificate*</a><br>
 **Career Essentials in Gen AI** - Microsoft & Linkedin <a href="https://drive.google.com/file/d/16HMldPj3CxPTjDh_lSlue7ycN7opjTJj/view?usp=drive_link">*View certificate*</a><br>
-  
+ </section> 
 
 ---
-
+<section id="skills">
 ## 💻 Skills
 
 - **Programming Languages**: Python, Java, C <br>
 - **Libraries/Tools** : Pandas, Numpy, Scikit-Learn, Matplotlib,PowerBI, Excel, Jupyter Notebook <br>
 - **Soft skills** : Adaptability, Communication skills, Analytical Thinking, Creativity, Teamwork
+- </section>
 ---
 
 <!--## 📖 Publications
@@ -178,13 +180,13 @@ Achieved a 4.1/5 performance rating for significant contributions to project suc
 -  Contributed to the team’s **overall championship** and secured **second place in the IT Debate** competition, demonstrating strong collaboration and communication skills at the *Joshiana* Intercollegiate Fest hosted by St. Joseph's Engineering College. <br>
 -  Secured **second place** in the Ideathon organized by the department, showcasing innovative thinking and problem-solving skills.
 ---
-
+<section id="contact">
 ## 🌐 Connect with Me
 
 - **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shilpar2/)
 - **GitHub**: [![GitHub](https://img.shields.io/badge/GitHub-%23000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shilpar31)
 - **Email**: [![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shilpa31r@gmail.com)
-
+</section>
 
 ---
 
