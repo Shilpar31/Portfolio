@@ -181,7 +181,7 @@ Achieved a 4.1/5 performance rating for significant contributions to project suc
 -  Secured **second place** in the Ideathon organized by the department, showcasing innovative thinking and problem-solving skills.
 ---
 <section id="contact">
-## 🌐 Connect with Me
+## 🌐 Connect with me
 
 - **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shilpar2/)
 - **GitHub**: [![GitHub](https://img.shields.io/badge/GitHub-%23000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shilpar31)
